@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    padding-bottom: 10px;
+}
+.addBtn {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 36px; 
+    font-size: 16px;
+}
+.removeBtn {
+    position: absolute;
+    left: 60%;
+    color: aliceblue;
+    padding: 0px 6px 0px 6px;
+    border: none;
+}
+.alertMsg {
+    color: red;
+}
